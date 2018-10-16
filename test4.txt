@@ -1,1 +1,1 @@
-newbranch file
+Merge conflict line
