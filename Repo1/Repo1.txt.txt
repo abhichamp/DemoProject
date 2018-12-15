@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Hi this is from Demo Project
 
 
